@@ -1,7 +1,7 @@
-#MEAN Session Two
+#MEAN Session Three
 
 ##Assignment
-See the readme at https://github.com/NYU-frontend/mean-session2/tree/version2
+tbd
 
 ##Tools of the trade - continued
 
