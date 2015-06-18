@@ -1,7 +1,23 @@
 #MEAN Session Three
 
 ##Assignment
-Add the necessary Angular code to the Pirate Portfolio (ng-app, ng-init, ng-model) to make the existing input field behave as it does in the sample angular js file we worked on in class. Be sure to download version3 - the latest repo - mean-session3/other/Angular/start.html. 
+Add the necessary Angular code to the Pirate Portfolio (ng-app, ng-init, ng-model) to make the existing input field behave as it does in the sample angular js file we worked on in class. Be sure to download version3 - the latest repo - mean-session3/other/Angular/start.html. Here's the html doc - copy and paste it if you don't feel like digging!
+```
+<html ng-app>
+<head>
+  <link rel="stylesheet" type="text/css" href="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<script src="https://code.angularjs.org/1.3.0-rc.1/angular.min.js"></script>
+</head>
+
+<body style="padding: 50px" ng-init="messageText = 'Hello World!'">
+  <div class="alert alert-success">
+    <input ng-model="messageText" size="30"/><br/>
+    Everybody wanna shout "{{ messageText | uppercase }}"
+  </div>
+</body>
+
+</html>
+```
 
 ##Tools of the trade - continued
 
