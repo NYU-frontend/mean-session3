@@ -1,7 +1,7 @@
 #MEAN Session Three
 
 ##Assignment
-Add the necessary Angular code to the Pirate Portfolio (ng-app, ng-init, ng-model) to make the existing input field behave as it does in the sample angular js file we worked on in class. Be sure to download version3 - the latest repo.
+Add the necessary Angular code to the Pirate Portfolio (ng-app, ng-init, ng-model) to make the existing input field behave as it does in the sample angular js file we worked on in class. Be sure to download version3 - the latest repo - mean-session3/other/Angular/start.html. 
 
 ##Tools of the trade - continued
 
